@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(0, 8, 32);
+}
+
+.basicclass1 {
+    background-color:rgb(72, 61, 226);
+    color:rgb(0, 8, 32);
+    border: 5px;
+    border-style:solid;
+    border-color: rgb(0, 8, 32);
+    border-radius:15px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    outline-width: 5px;
+    outline-style:solid;
+    outline-color: rgb(23, 32, 161);
+    padding-bottom:2px;
+}
+.titleclass1 {
+    letter-spacing:4px;
+    font-family: roboto;
+}
+
+.titleclass2 {
+    text-align:center;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 400px;
+    font-family: roboto;
+}
+
+.headingclass1 {
+    max-width: fit-content;
+    padding-right: 6px;
+    margin-left: 20px;
+    font-family: roboto;
+}
+
+.basicclass2 {
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-family:Arial;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.listclass1 {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.linkclass1 {
+    padding-top: 8px;
+}
+
+a:link {
+    color:rgb(0,200, 255)
+}
+
+a:visited {
+    color: rgb(0,200,255)
+}
