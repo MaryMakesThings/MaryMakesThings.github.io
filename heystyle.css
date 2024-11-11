@@ -67,3 +67,7 @@ a:link {
 a:visited {
     color: rgb(0,200,255)
 }
+
+.smallscreenclass1 {
+    font-size: 2vw;
+}
