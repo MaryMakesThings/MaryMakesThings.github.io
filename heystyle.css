@@ -5,7 +5,7 @@ body {
 .basicclass1 {
     background-color:rgb(72, 61, 226);
     color:rgb(0, 8, 32);
-    border: 1vw;
+    border: 5px;
     border-style:solid;
     border-color: rgb(0, 8, 32);
     border-radius:15px;
