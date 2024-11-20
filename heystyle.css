@@ -5,21 +5,21 @@ body {
 .basicclass1 {
     background-color:rgb(72, 61, 226);
     color:rgb(0, 8, 32);
-    border: 5px;
+    border: 1vw;
     border-style:solid;
     border-color: rgb(0, 8, 32);
-    border-radius:15px;
-    margin-top: 15px;
-    margin-bottom: 10px;
-    padding-left: 6px;
-    padding-right: 6px;
-    outline-width: 5px;
+    border-radius:3vw;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+    padding-left: 1.2vw;
+    padding-right: 1.2vw;
+    outline-width: 1vw;
     outline-style:solid;
     outline-color: rgb(23, 32, 161);
-    padding-bottom:2px;
+    padding-bottom: 0.2vw;
 }
 .titleclass1 {
-    letter-spacing:4px;
+    letter-spacing: 0.8vw;
     font-family: roboto;
 }
 
@@ -27,28 +27,28 @@ body {
     text-align:center;
     margin-right: auto;
     margin-left: auto;
-    max-width: 400px;
+    max-width: 20vw;
     font-family: roboto;
 }
 
 .headingclass1 {
     max-width: fit-content;
-    padding-right: 6px;
-    margin-left: 20px;
+    padding-right: 1vw;
+    margin-left: 4vw;
     font-family: roboto;
 }
 
 .basicclass2 {
-    padding-right: 10px;
-    padding-left: 10px;
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 20px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-right: 2vw;
+    padding-left: 2vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    margin-top: 4vw;
+    padding-top: 0.4vw;
+    padding-bottom: 0.4vw;
     font-family:Arial;
     font-weight: 600;
-    margin-bottom: 20px;
+    margin-bottom: 24vw;
 }
 
 .listclass1 {
