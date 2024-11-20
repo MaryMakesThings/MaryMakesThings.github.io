@@ -53,12 +53,12 @@ body {
 }
 
 .listclass1 {
-    padding-right: 30px;
-    padding-left: 30px;
+    padding-right: 6vw;
+    padding-left: 6vw;
 }
 
 .linkclass1 {
-    padding-top: 8px;
+    padding-top: 1.6vw;
 }
 
 a:link {
