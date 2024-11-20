@@ -17,6 +17,7 @@ body {
     outline-style:solid;
     outline-color: rgb(23, 32, 161);
     padding-bottom: 0.2vw;
+    font-size: 2vw;
 }
 .titleclass1 {
     letter-spacing: 0.8vw;
@@ -66,8 +67,4 @@ a:link {
 
 a:visited {
     color: rgb(0,200,255)
-}
-
-.smallscreenclass1 {
-    font-size: 2.2vw;
 }
