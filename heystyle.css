@@ -5,21 +5,21 @@ body {
 .basicclass1 {
     background-color:rgb(72, 61, 226);
     color:rgb(0, 8, 32);
-    border: 1vw;
+    border: 0.5vw;
     border-style:solid;
     border-color: rgb(0, 8, 32);
-    border-radius:3vw;
-    margin-top: 3vw;
-    margin-bottom: 2vw;
-    padding-left: 1.2vw;
-    padding-right: 1.2vw;
-    outline-width: 1vw;
+    border-radius:0.5vw;
+    margin-top: 1vw;
+    margin-bottom: 0.75vw;
+    padding-left: 0.6vw;
+    padding-right: 0.6vw;
+    outline-width: 0.5vw;
     outline-style:solid;
     outline-color: rgb(23, 32, 161);
-    padding-bottom: 0.2vw;
+    padding-bottom: 0.1vw;
 }
 .titleclass1 {
-    letter-spacing: 0.8vw;
+    letter-spacing: 0.3vw;
     font-family: roboto;
 }
 
@@ -27,37 +27,37 @@ body {
     text-align:center;
     margin-right: auto;
     margin-left: auto;
-    max-width: 20vw;
+    max-width: 10vw;
     font-family: roboto;
 }
 
 .headingclass1 {
     max-width: fit-content;
-    padding-right: 1vw;
-    margin-left: 4vw;
+    padding-right: 0.5vw;
+    margin-left: 2vw;
     font-family: roboto;
 }
 
 .basicclass2 {
-    padding-right: 2vw;
-    padding-left: 2vw;
-    margin-left: 8vw;
-    margin-right: 8vw;
-    margin-top: 4vw;
-    padding-top: 0.4vw;
-    padding-bottom: 0.4vw;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    margin-left: 4vw;
+    margin-right: 4vw;
+    margin-top: 2vw;
+    padding-top: 0.2vw;
+    padding-bottom: 0.2vw;
     font-family:Arial;
     font-weight: 600;
-    margin-bottom: 24vw;
+    margin-bottom: 12vw;
 }
 
 .listclass1 {
-    padding-right: 6vw;
-    padding-left: 6vw;
+    padding-right: 3vw;
+    padding-left: 3vw;
 }
 
 .linkclass1 {
-    padding-top: 1.6vw;
+    padding-top: 0.8vw;
 }
 
 a:link {
