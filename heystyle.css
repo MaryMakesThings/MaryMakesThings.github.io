@@ -5,15 +5,15 @@ body {
 .basicclass1 {
     background-color:rgb(72, 61, 226);
     color:rgb(0, 8, 32);
-    border-width: 0.1vw;
+    border-width: 0.8vw;
     border-style:solid;
     border-color: rgb(0, 8, 32);
-    border-radius:0.1vw;
+    border-radius:0.8vw;
     margin-top: 0.1vw;
     margin-bottom: 0.1vw;
     padding-left: 0.6vw;
     padding-right: 0.6vw;
-    outline-width: 0.1vw;
+    outline-width: 0.8vw;
     outline-style:solid;
     outline-color: rgb(23, 32, 161);
     padding-bottom: 0.1vw;
