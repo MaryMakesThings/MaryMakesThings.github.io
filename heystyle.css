@@ -9,14 +9,14 @@ body {
     border-style:solid;
     border-color: rgb(0, 8, 32);
     border-radius:0.8vw;
-    margin-top: 0.1vw;
-    margin-bottom: 0.1vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
     padding-left: 0.6vw;
     padding-right: 0.6vw;
     outline-width: 0.8vw;
     outline-style:solid;
     outline-color: rgb(23, 32, 161);
-    padding-bottom: 0.1vw;
+    padding-bottom: 1vw;
 }
 
 .titleclass1 {
@@ -45,11 +45,11 @@ body {
     margin-left: 4vw;
     margin-right: 4vw;
     margin-top: 2vw;
-    padding-top: 0.2vw;
-    padding-bottom: 0.2vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
     font-family:Arial;
     font-weight: 600;
-    margin-bottom: 12vw;
+    margin-bottom: 1vw;
 }
 
 .listclass1 {
