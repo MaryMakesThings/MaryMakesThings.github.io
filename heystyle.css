@@ -5,7 +5,7 @@ body {
 .basicclass1 {
     background-color:rgb(72, 61, 226);
     color:rgb(0, 8, 32);
-    border: 0.02vw;
+    border-width: 0.02vw;
     border-style:solid;
     border-color: rgb(0, 8, 32);
     border-radius:0.02vw;
@@ -18,6 +18,7 @@ body {
     outline-color: rgb(23, 32, 161);
     padding-bottom: 0.1vw;
 }
+
 .titleclass1 {
     letter-spacing: 0.3vw;
     font-family: roboto;
