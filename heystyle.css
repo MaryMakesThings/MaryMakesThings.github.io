@@ -10,13 +10,13 @@ body {
     border-color: rgb(0, 8, 32);
     border-radius:0.8vw;
     margin-top: 1vw;
-    margin-bottom: 1vw;
-    padding-left: 0.6vw;
-    padding-right: 0.6vw;
+    margin-bottom: 1.2vw;
+    padding-left: 0.8vw;
+    padding-right: 0.8vw;
     outline-width: 0.8vw;
     outline-style:solid;
     outline-color: rgb(23, 32, 161);
-    padding-bottom: 1vw;
+    padding-bottom: 0.8vw;
 }
 
 .titleclass1 {
@@ -26,14 +26,13 @@ body {
 
 .titleclass2 {
     text-align:center;
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 40vw;
+    margin-right: 20vw;
+    margin-left: 20vw;
     font-family: roboto;
 }
 
 .headingclass1 {
-    max-width: fit-content;
+    max-width: 20vw;
     padding-right: 0.5vw;
     margin-left: 2vw;
     font-family: roboto;
