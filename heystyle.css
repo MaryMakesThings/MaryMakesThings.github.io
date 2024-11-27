@@ -3,11 +3,11 @@ body {
 }
 
 .basicclass1 {
-    background-color:rgb(0, 0, 0);
-    color:rgb(200, 230, 255);
+    background-color:rgb(180, 200, 255);
+    color:rgb(0, 0, 0);
     border-width: 0.5vw;
     border-style:solid;
-    border-color: rgb(200, 230, 255);
+    border-color: rgb(0, 0, 0);
     border-radius:0.8vw;
     margin-top: 2vw;
     margin-bottom: 2vw;
@@ -45,7 +45,7 @@ body {
     margin-right: 4vw;
     margin-top: 2vw;
     padding-top: 2vw;
-    padding-bottom: 1vw;
+    padding-bottom: 0.8vw;
     font-family:Arial;
     font-weight: 600;
     margin-bottom: 1vw;
