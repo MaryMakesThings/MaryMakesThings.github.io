@@ -16,7 +16,7 @@ body {
     outline-width: 0.3vw;
     outline-style:solid;
     outline-color: rgb(200, 100, 255);
-    padding-bottom: 0.8vw;
+    padding-bottom: 1vw;
 }
 
 .titleclass1 {
@@ -46,7 +46,7 @@ body {
     margin-right: 4vw;
     margin-top: 2vw;
     padding-top: 2vw;
-    padding-bottom: 0.8vw;
+    padding-bottom: 1vw;
     font-family:Arial;
     font-weight: 600;
     margin-bottom: 1vw;
