@@ -22,6 +22,7 @@ body {
 .titleclass1 {
     letter-spacing: 0.3vw;
     font-family: roboto;
+    font-size: 1.5vw;
 }
 
 .titleclass2 {
@@ -49,6 +50,7 @@ body {
     font-family:Arial;
     font-weight: 600;
     margin-bottom: 1vw;
+    font-size: 1vw;
 }
 
 .listclass1 {
