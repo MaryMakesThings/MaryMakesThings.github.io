@@ -3,8 +3,8 @@ body {
 }
 
 .basicclass1 {
-    background-color:rgb(180, 200, 255);
-    color:rgb(0, 0, 0);
+    background-color:rgb(10, 10, 10);
+    color:rgb(180, 200, 255);
     border-width: 0.5vw;
     border-style:solid;
     border-color: rgb(0, 0, 0);
