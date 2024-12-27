@@ -59,7 +59,8 @@ body {
 }
 
 .linkclass1 {
-    padding-top: 0vw;
+    padding-top: 2vw;
+    margin-top: 2vw;
 }
 
 a:link {
