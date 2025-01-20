@@ -3,18 +3,18 @@ body {
 }
 
 .basicclass1 {
-    background-color:rgb(20, 10, 25);
-    color:rgb(180, 200, 255);
+    background-color: rgb(20, 10, 25);
+    color: rgb(180, 200, 255);
     border-width: 0.5vw;
-    border-style:solid;
+    border-style: solid;
     border-color: rgb(0, 0, 0);
-    border-radius:0.8vw;
+    border-radius: 0.8vw;
     margin-top: 1vw;
     margin-bottom: 1vw;
     padding-left: 0.8vw;
     padding-right: 0.8vw;
     outline-width: 0.3vw;
-    outline-style:solid;
+    outline-style: solid;
     outline-color: rgb(200, 100, 255);
     padding-bottom: 0vw;
 }
@@ -26,7 +26,7 @@ body {
 }
 
 .titleclass2 {
-    text-align:center;
+    text-align: center;
     margin-right: 20vw;
     margin-left: 20vw;
     font-weight: 700;
@@ -50,7 +50,7 @@ body {
     margin-top: 0vw;
     padding-top: 1vw;
     padding-bottom: 1vw;
-    font-family:Arial;
+    font-family: Arial;
     font-weight: 600;
     margin-bottom: 1vw;
     font-size: 1vw;
@@ -68,7 +68,7 @@ body {
 }
 
 a:link {
-    color:rgb(180, 200, 255);
+    color: rgb(180, 200, 255);
 }
 
 a:visited {
